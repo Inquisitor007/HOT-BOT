@@ -47,7 +47,7 @@ The game can be found here: t.me/herewalletbot/app?startapp=725693
 
 5. **Switch to the repository directory:**
    ```bash
-   cd HotWalletBot
+   cd HOT-BOT
    ```
 
 6. **Install the dependencies:**
