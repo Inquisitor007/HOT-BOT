@@ -72,8 +72,6 @@ If you want the script to run continuously, even after disconnecting from the se
 - To exit the session and leave it running in the background CTRL+A+D
 - To later resume session: ```screen -r```
 
-If you find this script useful, please consider buying me a coffee to show your support.
-- https://www.buymeacoffee.com/HotWallletBot
 
 Note: You have two options to integrate your accounts:
 1) Create a seed.txt file in the same directory as claim.py
