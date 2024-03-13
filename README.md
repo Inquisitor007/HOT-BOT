@@ -42,7 +42,7 @@ The game can be found here: t.me/herewalletbot/app?startapp=725693
 
    ```bash
    sudo apt install -y git
-   git clone https://github.com/ekawijanarka/HOT-BOT.git
+   git clone https://github.com/ekawijanarka84/HOT-BOT.git
    ```
 
 5. **Switch to the repository directory:**
