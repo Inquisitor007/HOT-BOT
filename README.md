@@ -67,7 +67,7 @@ If you want the script to run continuously, even after disconnecting from the se
 
 - Install screen if required: ```sudo apt install -y screen```
 - Create session: ```screen -S hot_wallet```
-- Check you are in the HotWalletBot directory or ```cd HotWalletBot```
+- Check you are in the HotWalletBot directory or ```cd HOT-BOT```
 - Start the script: ```python3 claim.py``` or ```python claim.py```
 - To exit the session and leave it running in the background CTRL+A+D
 - To later resume session: ```screen -r```
