@@ -7,7 +7,7 @@ The game can be found here: https://t.me/herewalletbot/app?startapp=725693
 
 ## 🚀 How To Use
 
-### Linux Users - This guide is based on installation on an Ubuntu VPS server
+### Linux Users - This guide is based on installation on an Ubuntu VPS server (Ubuntu 20.04 (LTS) x64)
 
 1. **If required, install Python & PIP:**
 
